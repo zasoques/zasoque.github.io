@@ -9,7 +9,8 @@
 
     .page {
         max-width: 800px;
-        margin: 0 auto;
+        margin: auto;
+        padding: 0 24px;
     }
 
     .inverse-color {

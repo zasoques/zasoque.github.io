@@ -16,12 +16,12 @@
     .column {
         flex: 1;
         margin-right: 12px;
+        padding-bottom: 24px;
     }
 
     .list-title {
         font-family: var(--condensed), sans-serif;
-        font-size: 0.9em;
-        margin-bottom: 8px;
+        margin-bottom: 12px;
     }
 </style>
 
@@ -30,38 +30,13 @@
         <div class="column-container">
             <div class="column">
                 <div class="list-title">Ügranemapotaçamis</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
+                <div class="list-item"><a href="http://www.shtelo.org/">J Gwangbuwiki</a></div>
+                <div class="list-item"><a href="https://me.shtelo.org">J Scîe</a></div>
             </div>
             <div class="column">
-                <div class="list-title">Ügranemapotaçamis</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-            </div>
-            <div class="column">
-                <div class="list-title">Ügranemapotaçamis</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-            </div>
-            <div class="column">
-                <div class="list-title">Ügranemapotaçamis</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-            </div>
-            <div class="column">
-                <div class="list-title">Ügranemapotaçamis</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
-                <div class="list-item">Sie</div>
+                <div class="list-title">Uatevanas</div>
+                <div class="list-item"><a href="mailto://junhg0211@gmail.com">Ügranemaletera</a></div>
+                <div class="list-item"><a href="https://discord.gg/D3URHFc9uy">J Discord</a></div>
             </div>
         </div>
     </div>
